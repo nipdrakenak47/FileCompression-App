@@ -1,7 +1,7 @@
 -> Hello ! This project is about file compression(Text file) using Huffman code. 
 
 -> As File compression means, the encoded file should have less size than actual file, So I have developed this Graphical User Interface based Java Application.
--> For GUI, Java Swing has been use and Java I/O used for File choosing from host.
+For GUI, Java Swing has been use and Java I/O used for File choosing from host.
 
 
 
